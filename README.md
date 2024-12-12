@@ -63,7 +63,7 @@ petstore-autotests
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/swagger-petstore-autotests.git
+   git clone https://github.com/lee0on/swagger-petstore-autotests.git
    cd swagger-petstore-autotests
    ```
 
